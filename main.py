@@ -252,8 +252,8 @@ def run(input='retest2.jpg', model='only_board'):
                 else:
                     rank_file_result = rank_file_model.predict(frame)
                 detect_board = True
-                if cv2.waitKey(1) == ord('q'):
-                    break
+            if cv2.waitKey(1) == ord('q'):
+                break
         cap.release()
         cv2.destroyAllWindows()
 
