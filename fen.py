@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-class FEN():
+class FEN:
 
     def __init__(self, pieces, squares):
         self.pieces = pieces
