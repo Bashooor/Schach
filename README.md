@@ -1,2 +1,2 @@
 # Schach
-Schachprogramm zur Erkennung von Schachfiguren mithilfe von CNN
+Schachprogramm zur Erkennung von Schachfiguren
